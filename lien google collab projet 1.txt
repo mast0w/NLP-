@@ -1,0 +1,2 @@
+Voici le lien du notebook détaillé qui nous sert de rapport
+https://colab.research.google.com/drive/1H8NkKl8r5RUnzA-O9Cq6Wku6r2DtQxkg?usp=sharing
